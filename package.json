@@ -22,5 +22,12 @@
   "bugs": {
     "url": "https://github.com/AdrieanKhisbe/seneca-cli-ent/issues"
   },
-  "homepage": "https://github.com/AdrieanKhisbe/seneca-cli-ent#readme"
+  "homepage": "https://github.com/AdrieanKhisbe/seneca-cli-ent#readme",
+  "devDependencies": {
+    "code": "^2.1.0",
+    "lab": "^8.0.1"
+  },
+  "dependencies": {
+    "vorpal": "^1.5.5"
+  }
 }
