@@ -1,0 +1,25 @@
+{
+  "name": "seneca-cli-ent",
+  "version": "0.0.1",
+  "description": "Easily interact with your seneca microservice from the Command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "lab"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AdrieanKhisbe/seneca-cli-ent.git"
+  },
+  "keywords": [
+    "cli",
+    "tool",
+    "seneca",
+    "microservices"
+  ],
+  "author": "Adriean Khisbe <adriean.khisbe@live.fr> (https://github.com/AdrieanKhisbe/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AdrieanKhisbe/seneca-cli-ent/issues"
+  },
+  "homepage": "https://github.com/AdrieanKhisbe/seneca-cli-ent#readme"
+}
