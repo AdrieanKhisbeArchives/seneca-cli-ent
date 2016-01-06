@@ -4,6 +4,7 @@
   "description": "Easily interact with your seneca microservice from the Command line",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "lab"
   },
   "repository": {
