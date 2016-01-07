@@ -11,3 +11,7 @@ after_script:
 cache:
   directories:
     - node_modules
+
+addons:
+  code_climate:
+    repo_token: 891904e2b47fd678ce5baa404fba09299180c43fb73596d4706227ab143361a0
