@@ -4,6 +4,10 @@ sudo: false
 node_js:
   - '5'
   - '4'
+
+after_script:
+  npm run ci-coverage
+
 cache:
   directories:
     - node_modules
