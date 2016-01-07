@@ -6,6 +6,8 @@
 [![npm version][npm-badge]][npm-url]
 [![experimental][experimental-badge]][experimental-url]
 [![Build Status][travis-badge]][travis-url]
+[![Coverage Status][coverage-badge]][coverage-url]
+[![Code Climate][codeclimate-badge]][codeclimate-url]
 [![Dependency Status][david-badge]][david-url]
 [![Gitter chat][gitter-badge]][gitter-url]
 
@@ -32,5 +34,10 @@ Just type anything, and *seneca-cli-ent* will tell you all the commands that are
 [david-url]: https://david-dm.org/AdrieanKhisbe/seneca-cli-ent
 [gitter-badge]: https://badges.gitter.im/AdrieanKhisbe/seneca.svg
 [gitter-url]: https://gitter.im/AdrieanKhisbe/seneca
-[experimental-badge]: http://badges.github.io/stability-badges/dist/experimental.svg
+[experimental-badge]: https://img.shields.io/badge/stability-experimental-DD5F0A.svg
 [experimental-url]: https://nodejs.org/api/documentation.html#documentation_stability_index
+
+[codeclimate-badge]: https://codeclimate.com/github/AdrieanKhisbe/seneca-cli-ent/badges/gpa.svg
+[codeclimate-url]: https://codeclimate.com/github/AdrieanKhisbe/seneca-cli-ent
+[coverage-badge]: https://codeclimate.com/github/AdrieanKhisbe/seneca-cli-ent/badges/coverage.svg
+[coverage-url]: https://codeclimate.com/github/AdrieanKhisbe/seneca-cli-ent/coverage
