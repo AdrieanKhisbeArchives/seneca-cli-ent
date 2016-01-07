@@ -2,6 +2,12 @@
 > A [Seneca.js][] Cli tool
 
 # seneca-cli-ent
+
+[![npm version][npm-badge]][npm-url]
+[![Build Status][travis-badge]][travis-url]
+[![Dependency Status][david-badge]][david-url]
+[![Gitter chat][gitter-badge]][gitter-url]
+
 > **Easily interact with your seneca microservices from the Command line**
 
 ## Install
@@ -15,3 +21,13 @@ Just type anything, and *seneca-cli-ent* will tell you all the commands that are
 
 
 [Seneca.js]: https://www.npmjs.com/package/seneca
+[npm-badge]: https://img.shields.io/npm/v/seneca-cli-ent.svg
+[npm-url]: https://npmjs.com/package/seneca-cli-ent
+[travis-badge]: https://api.travis-ci.org/AdrieanKhisbe/seneca-cli-ent.svg
+[travis-url]: https://travis-ci.org/AdrieanKhisbe/seneca-cli-ent
+[coveralls-badge]:https://coveralls.io/repos/AdrieanKhisbe/seneca-cli-ent/badge.svg?branch=master&service=github
+[coveralls-url]: https://coveralls.io/github/AdrieanKhisbe/seneca-cli-ent?branch=master
+[david-badge]: https://david-dm.org/AdrieanKhisbe/seneca-cli-ent.svg
+[david-url]: https://david-dm.org/AdrieanKhisbe/seneca-cli-ent
+[gitter-badge]: https://badges.gitter.im/AdrieanKhisbe/seneca.svg
+[gitter-url]: https://gitter.im/AdrieanKhisbe/seneca
