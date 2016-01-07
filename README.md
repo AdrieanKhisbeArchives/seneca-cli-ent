@@ -4,6 +4,7 @@
 # seneca-cli-ent
 
 [![npm version][npm-badge]][npm-url]
+[![experimental][experimental-badge]][experimental-url]
 [![Build Status][travis-badge]][travis-url]
 [![Dependency Status][david-badge]][david-url]
 [![Gitter chat][gitter-badge]][gitter-url]
@@ -31,3 +32,5 @@ Just type anything, and *seneca-cli-ent* will tell you all the commands that are
 [david-url]: https://david-dm.org/AdrieanKhisbe/seneca-cli-ent
 [gitter-badge]: https://badges.gitter.im/AdrieanKhisbe/seneca.svg
 [gitter-url]: https://gitter.im/AdrieanKhisbe/seneca
+[experimental-badge]: http://badges.github.io/stability-badges/dist/experimental.svg
+[experimental-url]: https://nodejs.org/api/documentation.html#documentation_stability_index
