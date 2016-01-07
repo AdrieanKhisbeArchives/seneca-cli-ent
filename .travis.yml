@@ -6,7 +6,8 @@ node_js:
   - '4'
 
 after_script:
-  npm run ci-coverage
+  - npm run coverage
+  - npm run publish-coverage
 
 cache:
   directories:
